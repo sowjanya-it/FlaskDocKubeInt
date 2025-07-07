@@ -11,5 +11,5 @@
 <br> $ kubectl port-forward service/flask-app 8000:8000
 <br>
 <br> $ cd ..
-<br> chmod +x deploy.sh
-<br> ./deploy.sh
+<br> $ chmod +x deploy.sh
+<br> $ ./deploy.sh
